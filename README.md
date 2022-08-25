@@ -1,8 +1,7 @@
-## Hello! Eu sou Natália Serrão
+## Hello! I'm Natália Serrão.
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me: https://www.linkedin.com/in/nataliaserrao/
-- 😄 Pronouns: ... she/her
 
 <div align="center">
   <a href="https://github.com/natserrao">
