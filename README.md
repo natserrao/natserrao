@@ -1,7 +1,7 @@
-## Hi, I'm Natália ✨
+## Hey there, I'm Natália ✨
 
-- 🌱 I’m currently learning Typescript
-- 📫 How to reach me: https://www.linkedin.com/in/nataliaserrao/
+It's really nice to see you here! 💖 
+I'm Natália, a Front-End developer from Manaus, Brazil.
 
 <div align="center">
   <a href="https://github.com/natserrao">
