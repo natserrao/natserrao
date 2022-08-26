@@ -1,7 +1,7 @@
 ## Hey there, I'm Natália ✨
 
 #### It's really nice to see you here! 💖 
-I'm Natália, a Front-End developer from Manaus, Brazil.
+I'm Natália, a Front-End developer from Manaus, Brazil. I'm passionate about travels, meet other cultures, learn new things everyday and pets!. I've started in technology since my high school, and I really enjoy make projects thinking about the user experience and design issues.   
 
 <div align="center">
   <a href="https://github.com/natserrao">
