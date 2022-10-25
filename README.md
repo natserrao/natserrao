@@ -8,6 +8,7 @@ I'm Natália, a Front-End developer from Manaus, Brazil. I'm passionate about tr
 <div>
   <a href="https://github.com/natserrao">
   <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=natserrao&repo=github-readme-stats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
 </div>
 
   <h3>Languages and tools</h3> 
