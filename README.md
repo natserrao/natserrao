@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c65c7d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c65c7d&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!,+I'm+Natália+Serrão;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c65c7d&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!,+I'm+Natália+Serrão✨;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=natserrao&color=blueviolet&style=flat-square)
 
@@ -23,6 +23,7 @@ I'm Natália, a Front-End developer from Manaus, Brazil. I'm passionate about tr
 <img align="center" alt="Natalia-TYPESCRIPT" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Natalia-NODEJS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Natalia-POSTGRESQL" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Natalia-FIGMA" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
   </div>
  
