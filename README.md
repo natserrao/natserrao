@@ -7,9 +7,9 @@
 #### It's really nice to see you here! 💖 
 I'm Natália, a Front-End developer from Manaus, Brazil. I'm passionate about travels, meet other cultures, learn new things everyday and pets!. I've started in technology since my high school, and I really enjoy make projects thinking about the user experience and design issues.   
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=natserrao&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natserrao&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<div align="center" display="flex" flex-direction="column" align-items="center" justify-content="center">  
+  <img width="49%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=natserrao&theme=cobalt"/> 
+  <img width="500px" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natserrao&theme=cobalt" />
 </div>
  
 </div>
