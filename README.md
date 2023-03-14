@@ -8,8 +8,8 @@
 I'm Natália, a Front-End developer from Manaus, Brazil. I'm passionate about travels, meet other cultures, learn new things everyday and pets!. I've started in technology since my high school, and I really enjoy make projects thinking about the user experience and design issues.   
 
 <div align="center" display="flex" flex-direction="column" align-items="center" justify-content="center" gap:5px>  
-  <img width="49%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=natserrao&theme=cobalt"/> 
-  <img width="20%" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natserrao&theme=cobalt" />
+  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=natserrao&theme=cobalt"/> 
+  <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natserrao&theme=cobalt" />
 </div>
  
 </div>
